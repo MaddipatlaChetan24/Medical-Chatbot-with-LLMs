@@ -122,25 +122,7 @@ Medical-Chatbot-with-LLMs/
 ├── requirements.txt      # Python dependencies
 ├── .env                  # Environment variables
 ├── setup.py              # Package setup
-├── src/                  # Core source code
-│   ├── helper.py         # Utility functions (PDF loading, text splitting, embeddings)
-│   └── prompt.py         # LLM prompt templates
-├── data/                 # Source data
-│   └── Medical_book.pdf  # Knowledge base document
-├── static/               # Static assets
-│   └── style.css         # Chat interface styles
-└── template/             # HTML templates
-    └── chat.html         # Main web interface
-```
-
----
-
-## Usage
-
-1. Start the Flask application by running `python app.py`.
-2. Open `http://127.0.0.1:8080/` in your browser.
-3. Type a health-related query in the chat interface.
-4. The system retrieves relevant medical context from the indexed PDF and generates a grounded response.
+├── src.
 
 ---
 
