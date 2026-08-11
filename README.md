@@ -2,6 +2,29 @@
 
 # Medical Chatbot with LLMs
 
+**An AI-powered medical assistant that provides accurate health information using Retrieval-Augmented Generation (RAG).**
+
+Ask health-related questions and get context-aware answers grounded in a comprehensive medical knowledge base.
+
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com/)
+[![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)](https://www.pinecone.io/)
+
+</div>
+
+---
+
+## Features
+
+| Feature | Description |
+|---|---|
+| **Medical Knowledge Base** | Grounded in authentic medical literature (PDF data source). |
+| **RAG Pipeline** | Uses Retrieval-Augmented Generation for context-aware, accurate responses. |
+| **Vector Search** | Powered by Pinecone for lightning-fast semantic retrieval. |
+| **Semantic Embeddings** | Employs `sentence-transformers` for high-quality text embeddings. |
+| **LLM Integration** | Utilizes OpenAI models via LangChain for intelligent conversation. |
+| **Web Interface** | Clean, intuitive chat interface built with Flask, HTML, and CSS. |
 
 ---
 
