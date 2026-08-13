@@ -17,13 +17,6 @@ Ask health-related questions and get context-aware answers grounded in a compreh
 
 ## Features
 
-| Feature | Description |
-|---|---|
-| **Medical Knowledge Base** | Grounded in authentic medical literature (PDF data source). |
-| **RAG Pipeline** | Uses Retrieval-Augmented Generation for context-aware, accurate responses. |
-| **Vector Search** | Powered by Pinecone for lightning-fast semantic retrieval. |
-| **Semantic Embeddings** | Employs `sentence-transformers` for high-quality text embeddings. |
-| **LLM Integration** | Utilizes OpenAI models via LangChain for intelligent conversation. |
 | **Web Interface** | Clean, intuitive chat interface built with Flask, HTML, and CSS. |
 
 ---
